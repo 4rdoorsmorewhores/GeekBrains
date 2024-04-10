@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-WaterEditor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UE5\Skillbox\Intermediate\Build\Win64\x64\SkillboxEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.InclOrderUnreal5_1.h.obj"
+"D:\UE5\Skillbox\Plugins\Water\HostProject\Plugins\Water\Intermediate\Build\Win64\x64\UnrealEditor\Development\WaterEditor\Module.WaterEditor.cpp.obj"
+"D:\UE5\Skillbox\Plugins\Water\HostProject\Plugins\Water\Intermediate\Build\Win64\x64\UnrealEditor\Development\WaterEditor\Default.rc2.res"
+/OUT:"D:\UE5\Skillbox\Plugins\Water\HostProject\Plugins\Water\Intermediate\Build\Win64\x64\UnrealEditor\Development\WaterEditor\UnrealEditor-WaterEditor.lib"

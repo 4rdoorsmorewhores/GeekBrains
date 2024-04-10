@@ -1,0 +1,7 @@
+{
+	"SourceFiles": [
+		"D:\\UE5\\Skillbox\\Plugins\\Water\\HostProject\\Plugins\\Water\\Source\\Editor\\WaterEditor.Build.cs",
+		"D:\\UE5\\Skillbox\\Plugins\\Water\\HostProject\\Plugins\\Water\\Source\\Runtime\\Water.Build.cs"
+	],
+	"EngineVersion": "5.2.1"
+}
